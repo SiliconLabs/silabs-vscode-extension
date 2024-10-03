@@ -1,0 +1,1 @@
+# silabs-vscode-extension
